@@ -1,6 +1,6 @@
-## Hi I'm Debabrata <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="center"> Hi I'm Debabrata <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm Debabrat a Full Stack Web Developer and Android Devloper. I Spend most of time coding outstanding projects or Click some Interesting pictures and made some 2D Landscape using Photoshop.
+I'm Debabrat a Full Stack Web Developer. I Spend most of time coding outstanding projects.
 
 :mailbox: Check out!
 
@@ -16,11 +16,11 @@ I'm Debabrat a Full Stack Web Developer and Android Devloper. I Spend most of ti
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at own Projcet
+- 🔭 I’m currently learn about advanced 3D design website 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: debabratagiri5525@gmail.com
-- ⚡ Fun fact: I play games total 24hr🤣
+- ⚡ Fun fact: I think(🤔) 😴 is a art?
 
 
 
@@ -43,12 +43,10 @@ I'm Debabrat a Full Stack Web Developer and Android Devloper. I Spend most of ti
 
 <img align="left" alt="css" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 
-<img align="left" alt="kotlin" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 
 
-<img align="left"  alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+<img align="left"  alt="tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
 
 
 <br />
