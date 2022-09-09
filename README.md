@@ -16,7 +16,7 @@ I'm Debabrat a Full Stack Web Developer. I Spend most of time coding outstanding
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently learn about advanced 3D design website 
+- 🔭 I’m currently learn about advanced website devlopment. 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: debabratagiri5525@gmail.com
