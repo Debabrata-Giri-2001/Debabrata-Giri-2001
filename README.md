@@ -9,7 +9,7 @@ I'm Debabrat a Full Stack Web Developer. I Spend most of time coding outstanding
 <a href="https://twitter.com/debabrata__giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debabra32844488" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ddebabrata.giri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ddebabrata.giri/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_debabrata._giri._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_debabrata._giri._/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc2gkhxvsccdemkklwjyml0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc2gkhxvsccdemkklwjyml0w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc2gkhxvsccdemkklwjyml0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC2GkHXVsCCDEmkKlWJyml0w" height="30" width="40" /></a>
 </p>
 
 <br>
